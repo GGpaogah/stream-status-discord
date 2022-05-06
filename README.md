@@ -1,5 +1,5 @@
 streaming status on Replit
-[![Run on Repl.it](https://repl.it/badge/github/DarrenOfficial/lavalink-replit)](https://repl.it/GGpaogah/stream-status-discord)
+[![Run on Repl.it](https://repl.it/badge/github/GGpaogah/stream-status-discord)](https://repl.it/github/GGpaogah/stream-status-discord)
 
 
 
