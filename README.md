@@ -1,4 +1,4 @@
-#stream-status-discord
+# stream-status-discord
 
 A python code that allows you to get the streaming status
 
