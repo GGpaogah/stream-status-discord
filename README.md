@@ -1,3 +1,5 @@
+A python Code that allows you to get the streaming status
+----
 streaming status on Replit
 [![Run on Repl.it](https://repl.it/badge/github/GGpaogah/stream-status-discord)](https://repl.it/github/GGpaogah/stream-status-discord)
 
