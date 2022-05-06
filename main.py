@@ -10,7 +10,7 @@ client = commands.Bot(
 
 
 
-# name = your status and url = your your twitch link
+# name = for your status and url = for your twitch link
 @client.event
 async def on_connect():
   await client.change_presence(activity = discord.Streaming(name = 
