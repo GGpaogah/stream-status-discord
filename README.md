@@ -16,13 +16,18 @@ or [click me](https://replit.com/github/GGpaogah/stream-status-discord) to insta
 This Code is from [this tutorial](https://youtu.be/LiCd8c4QQ7U). If you have any doubts regarding this, feel free to [contact me](https://discord.gg/7rjU4SfZwy).
 Use [uptimerobot.com](https://uptimerobot.com) or [freshping.io](https://www.freshworks.com/website-monitoring/) to make your repl online 24/7.
 
+**DO NOT GIVE YOUR TOKEN TO OTHERS!**
+
 ----
 
 The [main.py](https://github.com/GGpaogah/stream-status-discord/blob/main/main.py) is the main file. [alive.py](https://github.com/GGpaogah/stream-status-discord/blob/main/alive.py)
-prevents your repl from going to sleep.
+prevents your repl from going to sleep. 
+
 
 ----
 
-**DO NOT GIVE YOUR TOKEN TO OTHERS!**
+DISCLAIMER: I am not responsible if your account gets banned due to using this program, like stated, use this at your OWN risk.
+
+----
 </br>
 ⭐ Feel free to Star the Repository if this helped you! ;)
