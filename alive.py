@@ -5,7 +5,7 @@ app = Flask('')
 
 @app.route('/')
 def main():
-  return "join our discord server here https://discord.gg/7rjU4SfZwy"
+  return "Dont Forget To Subscribe"
 
 def run():
   app.run(host="0.0.0.0", port=8080)
