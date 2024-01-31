@@ -8,15 +8,10 @@ client = commands.Bot(
   self_bot=True
 )
 
-
-
-# name = for your status and url = for your twitch link
 @client.event
 async def on_connect():
-  await client.change_presence(activity = discord.Streaming(name = 
-  "status", url = "https://twitch.tv/paogah"))
-
-
-
+  await client.change_presence(activity = discord.Playing(name = 
+  "With ur Mom"))
+  
 alive.alive()
 client.run(os.getenv("TOKEN"), bot=False)
